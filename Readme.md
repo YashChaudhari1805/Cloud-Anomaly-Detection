@@ -89,7 +89,3 @@ Typical results based on synthetic injection:
 
 * **ROC_AUC**: ~0.96+
 * **F1-Score**: Optimized via PR-Curve thresholding.
-
----
-
-**Next Steps**: To deploy this pipeline, refer to the `load_inference_pipeline` utility to perform real-time predictions on single log entries.
